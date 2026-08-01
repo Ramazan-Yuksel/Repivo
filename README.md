@@ -16,88 +16,62 @@ AI-powered fitness companion built with Kotlin, FastAPI and Supabase.
 
 # Overview
 
-LiftIQ is an AI-powered fitness assistant designed to remove the guesswork from strength training.
+LiftIQ is an AI-powered fitness assistant designed to remove the guesswork from strength training. Instead of manually calculating calories, protein intake, workout progression, and training volume, LiftIQ automatically generates personalized workout plans and nutrition targets using a modern backend architecture.
 
-Instead of manually calculating calories, protein intake, workout progression, and training volume, LiftIQ automatically generates personalized workout plans and nutrition targets using a modern backend architecture.
-
-The application combines Android development with intelligent backend services to create a complete fitness companion.
+The application combines native Android development with intelligent backend services to deliver a complete, end-to-end fitness companion — from onboarding to daily training to long-term progression.
 
 ---
 
-# Features
+## ✨ Features
 
-### Smart Onboarding
+### 🧭 Smart Onboarding
 - Personalized user profile
-- Body measurements
-- Goal selection
-- Experience level
+- Body measurements (height, weight, age)
+- Goal selection (bulk, cut, maintain)
+- Experience level (beginner → advanced)
 - Activity level
 
-### Nutrition Calculator
-Automatically calculates
+### 🍎 Nutrition Calculator
+Automatically calculates:
+- BMR (Basal Metabolic Rate)
+- TDEE (Total Daily Energy Expenditure)
+- Daily calorie target
 
-- BMR
-- TDEE
-- Daily Calories
-- Protein
-- Fat
-- Carbohydrates
 
----
-
-### Intelligent Workout Planning
-
-- Personalized workout plans
+### 🏋️ Intelligent Workout Planning
+- Personalized weekly workout plans
 - Beginner / Intermediate / Advanced support
 - Equipment-aware weight generation
 - Science-based exercise ratios
 
----
+### 📈 Progressive Overload
+LiftIQ automatically adjusts training intensity based on:
+- RPE (Rate of Perceived Exertion) score
+- Previous workout performance
+- Weight progression over time
+- Full performance history
 
-### Progressive Overload
-
-LiftIQ automatically adjusts training intensity based on
-
-- RPE score
-- Previous workouts
-- Weight progression
-- Performance history
-
----
-
-### Workout Tracking
-
-Track
-
+### 📝 Workout Tracking
+Track every session in detail:
 - Exercises
-- Sets
-- Repetitions
+- Sets & repetitions
 - Weight
 - RPE
 
----
-
-### Workout Customization
-
+### 🔧 Workout Customization
 - Reorder exercises
-- Override weights
-- Override sets
-- Real-time synchronization
+- Override weights and sets
+- Swap exercises for alternatives
+- Real-time synchronization with the backend
+
+### 🌙 Recovery Detection
+If no workout is scheduled for today, LiftIQ automatically displays a Recovery Day, encouraging rest as part of the training cycle.
 
 ---
 
-### Recovery Detection
+## 🛠 Tech Stack
 
-If no workout exists for today,
-
-LiftIQ automatically displays a Recovery Day.
-
----
-
-# Tech Stack
-
-## Android
-
+**Android**
 - Kotlin
 - Jetpack Compose
 - Material 3
@@ -105,104 +79,69 @@ LiftIQ automatically displays a Recovery Day.
 - Coroutines
 - DataStore
 
-## Backend
-
+**Backend**
 - Python
 - FastAPI
 - PostgreSQL
-- Supabase
+- Supabase (Auth + Database)
+
+**Infrastructure**
+- AWS EC2
+- Brevo (transactional email)
 
 ---
 
-# Architecture
+## 🏗 Architecture
 
 ```
-Android App
-      │
-      ▼
- REST API (FastAPI)
-      │
-      ▼
-Supabase PostgreSQL
+Android App (Kotlin / Jetpack Compose)
+              │
+              ▼
+     REST API (FastAPI)
+              │
+              ▼
+   Supabase (Auth + PostgreSQL)
 ```
 
 ---
 
-# Current Features
+## ✅ Current Features
 
-- Authentication
-- Email Verification
-- User Onboarding
-- Nutrition Calculator
-- Baseline Workout Generator
-- Progressive Overload
-- Workout History
-- Exercise Overrides
-- Recovery Day Detection
-- Profile Management
+- Authentication & email verification
+- User onboarding
+- Nutrition calculator
+- Baseline workout generator
+- Progressive overload engine
+- Workout history
+- Exercise overrides & swaps
+- Recovery day detection
+- Profile management
 
----
+## 🔮 Planned Features
 
-# Planned Features
-
-- PR Tracking
-- Workout Analytics
-- AI Workout Coach
-- Smart Recovery Suggestions
-- Apple Health Integration
-- Google Fit Integration
-- Wear OS Support
-- Push Notifications
-- Dark Theme Improvements
+- PR tracking
+- Workout analytics
+- AI workout coach
+- Smart recovery suggestions
+- Apple Health integration
+- Google Fit integration
+- Wear OS support
+- Push notifications
+- Dark theme improvements
 
 ---
 
-# Screenshots
+## 📄 Legal
 
-Screenshots will be added after the first stable release.
-
----
-
-# Privacy
-
-See
-
-**PRIVACY_POLICY.md**
+- [Privacy Policy](./PRIVACY_POLICY.md)
+- [Terms & Conditions](./TERMS_AND_CONDITIONS.md)
+- [License](./LICENSE) — this project is proprietary software.
 
 ---
 
-# Terms
-
-See
-
-**TERMS_AND_CONDITIONS.md**
-
----
-
-# License
-
-This project is proprietary software.
-
-See
-
-**LICENSE**
-
----
-
-# Author
+## 👤 Author
 
 **Ramazan Yüksel**
+Computer Engineering Student · Backend Developer · Android Developer
 
-Computer Engineering Student
-
-Backend Developer • Android Developer
-
-GitHub
-
-https://github.com/Ramazan-Yuksel
-
----
-
-<p align="center">
-Made with ❤️ using Kotlin, FastAPI and Supabase.
-</p>
+[GitHub](https://github.com/Ramazan-Yuksel)
