@@ -1,5 +1,5 @@
 Privacy Policy
-This privacy policy applies to the LiftIQ app for mobile devices, together with any related services operated by Ramazan Yüksel (collectively, the "Application"). Ramazan Yüksel is hereby referred to as the "Service Provider".
+This privacy policy applies to the Repivo app for mobile devices, together with any related services operated by Ramazan Yüksel (collectively, the "Application"). Ramazan Yüksel is hereby referred to as the "Service Provider".
 
 Information Collection and Use
 The Application collects information when you download and use it. This information may include information such as
@@ -58,8 +58,7 @@ You can request deletion of your personal data or account by contacting the Serv
 Upon verification of your identity, the Service Provider will delete your personal data from its systems, except where retention is required for legal compliance or legitimate business purposes.
 
 Children
-The Application is not intended for children under 16 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
-
+The Application is not intended for children under 16 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.ș
 
 Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 16 years of age in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (ramazanyuksel.dev@gmail.com) so that they will be able to take the necessary actions.
 
@@ -83,4 +82,3 @@ Where processing is based on consent, you provide that consent by affirmatively 
 
 Contact Us
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at ramazanyuksel.dev@gmail.com.
-

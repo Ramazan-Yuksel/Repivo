@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.png" width="170" alt="LiftIQ Logo"/>
+  <img src="assets/logo.png" width="170" alt="Repivo Logo"/>
 </p>
 
-<h1 align="center">LiftIQ</h1>
+<h1 align="center">Repivo</h1>
 
 <p align="center">
 <b>Train Smarter. Lift Better.</b>
@@ -16,7 +16,7 @@ AI-powered fitness companion built with Kotlin, FastAPI and Supabase.
 
 # Overview
 
-LiftIQ is an AI-powered fitness assistant designed to remove the guesswork from strength training. Instead of manually calculating calories, protein intake, workout progression, and training volume, LiftIQ automatically generates personalized workout plans and nutrition targets using a modern backend architecture.
+Repivo is an AI-powered fitness assistant designed to remove the guesswork from strength training. Instead of manually calculating calories, protein intake, workout progression, and training volume, Repivo automatically generates personalized workout plans and nutrition targets using a modern backend architecture.
 
 The application combines native Android development with intelligent backend services to deliver a complete, end-to-end fitness companion — from onboarding to daily training to long-term progression.
 
@@ -25,78 +25,92 @@ The application combines native Android development with intelligent backend ser
 ## ✨ Features
 
 ### 🧭 Smart Onboarding
-- Personalized user profile
-- Body measurements (height, weight, age)
-- Goal selection (bulk, cut, maintain)
-- Experience level (beginner → advanced)
-- Activity level
+
+* Personalized user profile
+* Body measurements (height, weight, age)
+* Goal selection (bulk, cut, maintain)
+* Experience level (beginner → advanced)
+* Activity level
 
 ### 🍎 Nutrition Calculator
-Automatically calculates:
-- BMR (Basal Metabolic Rate)
-- TDEE (Total Daily Energy Expenditure)
-- Daily calorie target
 
+Automatically calculates:
+
+* BMR (Basal Metabolic Rate)
+* TDEE (Total Daily Energy Expenditure)
+* Daily calorie target
 
 ### 🏋️ Intelligent Workout Planning
-- Personalized weekly workout plans
-- Beginner / Intermediate / Advanced support
-- Equipment-aware weight generation
-- Science-based exercise ratios
+
+* Personalized weekly workout plans
+* Beginner / Intermediate / Advanced support
+* Equipment-aware weight generation
+* Science-based exercise ratios
 
 ### 📈 Progressive Overload
-LiftIQ automatically adjusts training intensity based on:
-- RPE (Rate of Perceived Exertion) score
-- Previous workout performance
-- Weight progression over time
-- Full performance history
+
+Repivo automatically adjusts training intensity based on:
+
+* RPE (Rate of Perceived Exertion) score
+* Previous workout performance
+* Weight progression over time
+* Full performance history
 
 ### 📝 Workout Tracking
+
 Track every session in detail:
-- Exercises
-- Sets & repetitions
-- Weight
-- RPE
+
+* Exercises
+* Sets & repetitions
+* Weight
+* RPE
 
 ### 🏃 Cardio Tracking
+
 Log cardio sessions with MET-based calorie calculations:
-- Treadmill walking & running (speed and incline aware)
-- Stationary bike
-- Elliptical, stair climber, and rowing machine
-- Automatic calorie burn calculation based on body weight and duration
+
+* Treadmill walking & running (speed and incline aware)
+* Stationary bike
+* Elliptical, stair climber, and rowing machine
+* Automatic calorie burn calculation based on body weight and duration
 
 ### 🔧 Workout Customization
-- Reorder exercises
-- Override weights and sets
-- Swap exercises for alternatives
-- Add or remove exercises from any day
-- Real-time synchronization with the backend
+
+* Reorder exercises
+* Override weights and sets
+* Swap exercises for alternatives
+* Add or remove exercises from any day
+* Real-time synchronization with the backend
 
 ### 🌙 Recovery Detection
-If no workout is scheduled for today, LiftIQ automatically displays a Recovery Day, encouraging rest as part of the training cycle.
+
+If no workout is scheduled for today, Repivo automatically displays a Recovery Day, encouraging rest as part of the training cycle.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Android**
-- Kotlin
-- Jetpack Compose
-- Material 3
-- Retrofit
-- Coroutines
-- DataStore
+
+* Kotlin
+* Jetpack Compose
+* Material 3
+* Retrofit
+* Coroutines
+* DataStore
 
 **Backend**
-- Python
-- FastAPI
-- PostgreSQL
-- Supabase (Auth + Database)
+
+* Python
+* FastAPI
+* PostgreSQL
+* Supabase (Auth + Database)
 
 **Infrastructure**
-- AWS EC2
-- Brevo (transactional email)
-- GitHub Actions (CI/CD — automated deployment on every push to main)
+
+* AWS EC2
+* Brevo (transactional email)
+* GitHub Actions (CI/CD — automated deployment on every push to main)
 
 ---
 
@@ -116,37 +130,37 @@ Android App (Kotlin / Jetpack Compose)
 
 ## ✅ Current Features
 
-- Authentication & email verification
-- User onboarding
-- Nutrition calculator
-- Baseline workout generator
-- Progressive overload engine
-- Cardio tracking with calorie calculation
-- Workout history
-- Exercise overrides & swaps
-- Recovery day detection
-- Profile management
-- Automated CI/CD deployment
+* Authentication & email verification
+* User onboarding
+* Nutrition calculator
+* Baseline workout generator
+* Progressive overload engine
+* Cardio tracking with calorie calculation
+* Workout history
+* Exercise overrides & swaps
+* Recovery day detection
+* Profile management
+* Automated CI/CD deployment
 
 ## 🔮 Planned Features
 
-- PR tracking
-- Workout analytics
-- AI workout coach
-- Smart recovery suggestions
-- Apple Health integration
-- Google Fit integration
-- Wear OS support
-- Push notifications
-- Dark theme improvements
+* PR tracking
+* Workout analytics
+* AI workout coach
+* Smart recovery suggestions
+* Apple Health integration
+* Google Fit integration
+* Wear OS support
+* Push notifications
+* Dark theme improvements
 
 ---
 
 ## 📄 Legal
 
-- [Privacy Policy](./PRIVACY_POLICY.md)
-- [Terms & Conditions](./TERMS_AND_CONDITIONS.md)
-- [License](./LICENSE) — this project is proprietary software.
+* [Privacy Policy](./PRIVACY_POLICY.md)
+* [Terms & Conditions](./TERMS_AND_CONDITIONS.md)
+* [License](./LICENSE) — this project is proprietary software.
 
 ---
 

@@ -1,6 +1,6 @@
 Terms & Conditions
 
-These terms and conditions apply to the LiftIQ app for mobile devices, together with any related services operated by Ramazan Yüksel (collectively, the "Application"). Ramazan Yüksel is hereby referred to as the "Service Provider".
+These terms and conditions apply to the Repivo app for mobile devices, together with any related services operated by Ramazan Yüksel (collectively, the "Application"). Ramazan Yüksel is hereby referred to as the "Service Provider".
 
 
 By downloading or using the Application, you agree to these Terms and Conditions. You should read them carefully before using the Application.
@@ -28,20 +28,20 @@ Unauthorized copying, modification of the Application, any part of the Applicati
 
 User-Generated Content and Acceptable Use
 If this Application allows users to post, share, or upload content, you agree not to post content that:
-•	Is illegal or violates third-party intellectual property rights (copyright, trademark, patents)
-•	Is abusive, threatening, harassing, defamatory, or hate speech
-•	Contains discrimination or incitement to violence or illegal activity
-•	Is spam, phishing, or contains malware
-•	Violates the privacy or personal data rights of others
-•	Is misleading, false, or deceptive
-•	Contains explicit violence or sexual content (unless age-gated appropriately)
+•   Is illegal or violates third-party intellectual property rights (copyright, trademark, patents)
+•   Is abusive, threatening, harassing, defamatory, or hate speech
+•   Contains discrimination or incitement to violence or illegal activity
+•   Is spam, phishing, or contains malware
+•   Violates the privacy or personal data rights of others
+•   Is misleading, false, or deceptive
+•   Contains explicit violence or sexual content (unless age-gated appropriately)
 
 
 The Service Provider reserves the right to:
-•	Remove or disable access to content that violates these guidelines
-•	Suspend or terminate accounts of users who repeatedly violate these guidelines
-•	Cooperate with law enforcement if illegal content is reported
-•	Moderate, filter, or hide content that violates these Terms, applicable law, or the guidelines set out above
+•   Remove or disable access to content that violates these guidelines
+•   Suspend or terminate accounts of users who repeatedly violate these guidelines
+•   Cooperate with law enforcement if illegal content is reported
+•   Moderate, filter, or hide content that violates these Terms, applicable law, or the guidelines set out above
 
 
 Content submitted through the Application may be visible to other users or to the public, depending on how the Application functions.
@@ -68,7 +68,7 @@ The Service Provider is dedicated to ensuring that the Application is as benefic
 The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your mobile device and access to the Application.
 The Service Provider strongly advises against jailbreaking or rooting your mobile device, which involves removing software restrictions and limitations imposed by the official operating system of your mobile device. Such actions could expose your mobile device to malware, viruses, malicious programs, compromise your mobile device's security features, and may result in the Application not functioning correctly or at all.
 Third Party Services
-•	Google Play Services
+•   Google Play Services
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
@@ -85,9 +85,9 @@ To the fullest extent permitted by law, the Service Provider shall not be liable
 
 
 However, the Service Provider retains full liability for:
-•	Death or personal injury caused by negligence
-•	Fraud or fraudulent misrepresentation
-•	Any other liability that cannot be excluded or limited under applicable law
+•   Death or personal injury caused by negligence
+•   Fraud or fraudulent misrepresentation
+•   Any other liability that cannot be excluded or limited under applicable law
 
 
 To the fullest extent permitted by law, the total liability of the Service Provider for any claim shall not exceed the amount paid by you to the Service Provider for the Application in the 12 months preceding the claim, or the minimum amount that must be paid under applicable law, whichever is greater. If the Application is provided free of charge, this means the Service Provider's liability is limited to the minimum amount permitted by applicable law.
@@ -151,4 +151,3 @@ These terms and conditions are effective as of 2026-07-29
 
 Contact Us
 If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at ramazanyuksel.dev@gmail.com.
-
