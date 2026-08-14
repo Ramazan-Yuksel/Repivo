@@ -1,5 +1,5 @@
 Privacy Policy
-This privacy policy applies to the Repivo app for mobile devices, together with any related services operated by Ramazan Yüksel (collectively, the "Application"). Ramazan Yüksel is hereby referred to as the "Service Provider".
+This privacy policy applies to the Reptievo app for mobile devices, together with any related services operated by Ramazan Yüksel (collectively, the "Application"). Ramazan Yüksel is hereby referred to as the "Service Provider".
 
 Information Collection and Use
 The Application collects information when you download and use it. This information may include information such as

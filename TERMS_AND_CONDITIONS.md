@@ -1,6 +1,6 @@
 Terms & Conditions
 
-These terms and conditions apply to the Repivo app for mobile devices, together with any related services operated by Ramazan Yüksel (collectively, the "Application"). Ramazan Yüksel is hereby referred to as the "Service Provider".
+These terms and conditions apply to the Reptievo app for mobile devices, together with any related services operated by Ramazan Yüksel (collectively, the "Application"). Ramazan Yüksel is hereby referred to as the "Service Provider".
 
 
 By downloading or using the Application, you agree to these Terms and Conditions. You should read them carefully before using the Application.
