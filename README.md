@@ -58,10 +58,18 @@ Track every session in detail:
 - Weight
 - RPE
 
+### 🏃 Cardio Tracking
+Log cardio sessions with MET-based calorie calculations:
+- Treadmill walking & running (speed and incline aware)
+- Stationary bike
+- Elliptical, stair climber, and rowing machine
+- Automatic calorie burn calculation based on body weight and duration
+
 ### 🔧 Workout Customization
 - Reorder exercises
 - Override weights and sets
 - Swap exercises for alternatives
+- Add or remove exercises from any day
 - Real-time synchronization with the backend
 
 ### 🌙 Recovery Detection
@@ -88,6 +96,7 @@ If no workout is scheduled for today, LiftIQ automatically displays a Recovery D
 **Infrastructure**
 - AWS EC2
 - Brevo (transactional email)
+- GitHub Actions (CI/CD — automated deployment on every push to main)
 
 ---
 
@@ -112,10 +121,12 @@ Android App (Kotlin / Jetpack Compose)
 - Nutrition calculator
 - Baseline workout generator
 - Progressive overload engine
+- Cardio tracking with calorie calculation
 - Workout history
 - Exercise overrides & swaps
 - Recovery day detection
 - Profile management
+- Automated CI/CD deployment
 
 ## 🔮 Planned Features
 
