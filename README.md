@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Smart fitness companion built with Python,Kotlin,Supabase and AWS.
+Smart fitness companion built with Python, Kotlin, Supabase and AWS.
 </p>
 
 ---
