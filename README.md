@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-AI-powered fitness companion built with Kotlin, FastAPI and Supabase.
+Smart fitness companion built with Python,Kotlin,Supabase and AWS.
 </p>
 
 ---
