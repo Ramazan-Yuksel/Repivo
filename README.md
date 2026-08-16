@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-AI-powered fitness companion built with Kotlin, FastAPI and Supabase.
+Smart fitness companion built with Python, Kotlin, Supabase and AWS.
 </p>
 
 ---
 
 # Overview
 
-Reptievo is an AI-powered fitness assistant designed to remove the guesswork from strength training. Instead of manually calculating calories, protein intake, workout progression, and training volume, Reptievo automatically generates personalized workout plans and nutrition targets using a modern backend architecture.
+Reptievo is a fitness assistant designed to remove the guesswork from strength training. Instead of manually calculating calories, protein intake, workout progression, and training volume, Reptievo automatically generates personalized workout plans and nutrition targets using a modern backend architecture.
 
 The application combines native Android development with intelligent backend services to deliver a complete, end-to-end fitness companion — from onboarding to daily training to long-term progression.
 
